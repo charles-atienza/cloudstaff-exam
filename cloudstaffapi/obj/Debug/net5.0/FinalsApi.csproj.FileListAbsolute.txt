@@ -1,0 +1,165 @@
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\bin\Debug\net5.0\appsettings.json
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\bin\Debug\net5.0\FinalsApi.exe
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\bin\Debug\net5.0\FinalsApi.deps.json
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\bin\Debug\net5.0\FinalsApi.runtimeconfig.json
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\bin\Debug\net5.0\FinalsApi.runtimeconfig.dev.json
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\bin\Debug\net5.0\FinalsApi.dll
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\bin\Debug\net5.0\ref\FinalsApi.dll
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\bin\Debug\net5.0\FinalsApi.pdb
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\obj\Debug\net5.0\FinalsApi.csproj.AssemblyReference.cache
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\obj\Debug\net5.0\FinalsApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\obj\Debug\net5.0\FinalsApi.AssemblyInfoInputs.cache
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\obj\Debug\net5.0\FinalsApi.AssemblyInfo.cs
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\obj\Debug\net5.0\FinalsApi.csproj.CoreCompileInputs.cache
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\obj\Debug\net5.0\FinalsApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\obj\Debug\net5.0\FinalsApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\obj\Debug\net5.0\staticwebassets\FinalsApi.StaticWebAssets.Manifest.cache
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\obj\Debug\net5.0\staticwebassets\FinalsApi.StaticWebAssets.xml
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\obj\Debug\net5.0\scopedcss\bundle\FinalsApi.styles.css
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\obj\Debug\net5.0\FinalsApi.RazorTargetAssemblyInfo.cache
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\obj\Debug\net5.0\FinalsApi.csproj.CopyComplete
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\obj\Debug\net5.0\FinalsApi.dll
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\obj\Debug\net5.0\ref\FinalsApi.dll
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\obj\Debug\net5.0\FinalsApi.pdb
+C:\Users\LP\Desktop\Desktop\Web-API-With-ASP.NET-Core-main\obj\Debug\net5.0\FinalsApi.genruntimeconfig.cache
+C:\Users\LP\Desktop\Desktop\FinalsApi\obj\Debug\net5.0\FinalsApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LP\Desktop\Desktop\FinalsApi\obj\Debug\net5.0\FinalsApi.AssemblyInfoInputs.cache
+C:\Users\LP\Desktop\Desktop\FinalsApi\obj\Debug\net5.0\FinalsApi.AssemblyInfo.cs
+C:\Users\LP\Desktop\Desktop\FinalsApi\obj\Debug\net5.0\FinalsApi.csproj.CoreCompileInputs.cache
+C:\Users\LP\Desktop\Desktop\FinalsApi\obj\Debug\net5.0\FinalsApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LP\Desktop\Desktop\FinalsApi\obj\Debug\net5.0\FinalsApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LP\Desktop\Desktop\FinalsApi\obj\Debug\net5.0\FinalsApi.dll
+C:\Users\LP\Desktop\Desktop\FinalsApi\obj\Debug\net5.0\ref\FinalsApi.dll
+C:\Users\LP\Desktop\Desktop\FinalsApi\obj\Debug\net5.0\FinalsApi.pdb
+C:\Users\LP\Desktop\Desktop\FinalsApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\LP\Desktop\Desktop\FinalsApi\bin\Debug\net5.0\appsettings.json
+C:\Users\LP\Desktop\Desktop\FinalsApi\bin\Debug\net5.0\FinalsApi.exe
+C:\Users\LP\Desktop\Desktop\FinalsApi\bin\Debug\net5.0\FinalsApi.deps.json
+C:\Users\LP\Desktop\Desktop\FinalsApi\bin\Debug\net5.0\FinalsApi.runtimeconfig.json
+C:\Users\LP\Desktop\Desktop\FinalsApi\bin\Debug\net5.0\FinalsApi.runtimeconfig.dev.json
+C:\Users\LP\Desktop\Desktop\FinalsApi\bin\Debug\net5.0\FinalsApi.dll
+C:\Users\LP\Desktop\Desktop\FinalsApi\bin\Debug\net5.0\ref\FinalsApi.dll
+C:\Users\LP\Desktop\Desktop\FinalsApi\bin\Debug\net5.0\FinalsApi.pdb
+C:\Users\LP\Desktop\Desktop\FinalsApi\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\LP\Desktop\Desktop\FinalsApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\LP\Desktop\Desktop\FinalsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LP\Desktop\Desktop\FinalsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LP\Desktop\Desktop\FinalsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LP\Desktop\Desktop\FinalsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\LP\Desktop\Desktop\FinalsApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LP\Desktop\Desktop\FinalsApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\LP\Desktop\Desktop\FinalsApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\LP\Desktop\Desktop\FinalsApi\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\LP\Desktop\Desktop\FinalsApi\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\LP\Desktop\Desktop\FinalsApi\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\LP\Desktop\Desktop\FinalsApi\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\LP\Desktop\Desktop\FinalsApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LP\Desktop\Desktop\FinalsApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LP\Desktop\Desktop\FinalsApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LP\Desktop\Desktop\FinalsApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LP\Desktop\Desktop\FinalsApi\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\LP\Desktop\Desktop\FinalsApi\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\LP\Desktop\Desktop\FinalsApi\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\LP\Desktop\Desktop\FinalsApi\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\LP\Desktop\Desktop\FinalsApi\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\LP\Desktop\Desktop\FinalsApi\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\LP\Desktop\Desktop\FinalsApi\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\LP\Desktop\Desktop\FinalsApi\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\LP\Desktop\Desktop\FinalsApi\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\LP\Desktop\Desktop\FinalsApi\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\LP\Desktop\Desktop\FinalsApi\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\LP\Desktop\Desktop\FinalsApi\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\LP\Desktop\Desktop\FinalsApi\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\LP\Desktop\Desktop\FinalsApi\obj\Debug\net5.0\staticwebassets\FinalsApi.StaticWebAssets.Manifest.cache
+C:\Users\LP\Desktop\Desktop\FinalsApi\obj\Debug\net5.0\staticwebassets\FinalsApi.StaticWebAssets.xml
+C:\Users\LP\Desktop\Desktop\FinalsApi\obj\Debug\net5.0\scopedcss\bundle\FinalsApi.styles.css
+C:\Users\LP\Desktop\Desktop\FinalsApi\obj\Debug\net5.0\FinalsApi.RazorTargetAssemblyInfo.cache
+C:\Users\LP\Desktop\Desktop\FinalsApi\obj\Debug\net5.0\FinalsApi.csproj.CopyComplete
+C:\Users\LP\Desktop\Desktop\FinalsApi\obj\Debug\net5.0\FinalsApi.genruntimeconfig.cache
+C:\Users\LP\Desktop\Desktop\FinalsApi\obj\Debug\net5.0\FinalsApi.csproj.AssemblyReference.cache
+D:\Brian Files\FinalsApi\bin\Debug\net5.0\appsettings.Development.json
+D:\Brian Files\FinalsApi\bin\Debug\net5.0\appsettings.json
+D:\Brian Files\FinalsApi\bin\Debug\net5.0\FinalsApi.StaticWebAssets.xml
+D:\Brian Files\FinalsApi\bin\Debug\net5.0\FinalsApi.exe
+D:\Brian Files\FinalsApi\bin\Debug\net5.0\FinalsApi.deps.json
+D:\Brian Files\FinalsApi\bin\Debug\net5.0\FinalsApi.runtimeconfig.json
+D:\Brian Files\FinalsApi\bin\Debug\net5.0\FinalsApi.runtimeconfig.dev.json
+D:\Brian Files\FinalsApi\bin\Debug\net5.0\FinalsApi.dll
+D:\Brian Files\FinalsApi\bin\Debug\net5.0\ref\FinalsApi.dll
+D:\Brian Files\FinalsApi\bin\Debug\net5.0\FinalsApi.pdb
+D:\Brian Files\FinalsApi\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\Brian Files\FinalsApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Brian Files\FinalsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Brian Files\FinalsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Brian Files\FinalsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Brian Files\FinalsApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Brian Files\FinalsApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Brian Files\FinalsApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Brian Files\FinalsApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Brian Files\FinalsApi\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\Brian Files\FinalsApi\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\Brian Files\FinalsApi\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\Brian Files\FinalsApi\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Brian Files\FinalsApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Brian Files\FinalsApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Brian Files\FinalsApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Brian Files\FinalsApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Brian Files\FinalsApi\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Brian Files\FinalsApi\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Brian Files\FinalsApi\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Brian Files\FinalsApi\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Brian Files\FinalsApi\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Brian Files\FinalsApi\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Brian Files\FinalsApi\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Brian Files\FinalsApi\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Brian Files\FinalsApi\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Brian Files\FinalsApi\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Brian Files\FinalsApi\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Brian Files\FinalsApi\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Brian Files\FinalsApi\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Brian Files\FinalsApi\obj\Debug\net5.0\FinalsApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Brian Files\FinalsApi\obj\Debug\net5.0\FinalsApi.AssemblyInfoInputs.cache
+D:\Brian Files\FinalsApi\obj\Debug\net5.0\FinalsApi.AssemblyInfo.cs
+D:\Brian Files\FinalsApi\obj\Debug\net5.0\FinalsApi.csproj.CoreCompileInputs.cache
+D:\Brian Files\FinalsApi\obj\Debug\net5.0\FinalsApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Brian Files\FinalsApi\obj\Debug\net5.0\FinalsApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Brian Files\FinalsApi\obj\Debug\net5.0\scopedcss\bundle\FinalsApi.styles.css
+D:\Brian Files\FinalsApi\obj\Debug\net5.0\staticwebassets\FinalsApi.StaticWebAssets.Manifest.cache
+D:\Brian Files\FinalsApi\obj\Debug\net5.0\FinalsApi.RazorTargetAssemblyInfo.cache
+D:\Brian Files\FinalsApi\obj\Debug\net5.0\FinalsApi.csproj.CopyComplete
+D:\Brian Files\FinalsApi\obj\Debug\net5.0\FinalsApi.dll
+D:\Brian Files\FinalsApi\obj\Debug\net5.0\ref\FinalsApi.dll
+D:\Brian Files\FinalsApi\obj\Debug\net5.0\FinalsApi.pdb
+D:\Brian Files\FinalsApi\obj\Debug\net5.0\FinalsApi.genruntimeconfig.cache
+D:\Brian Files\FinalsApi\obj\Debug\net5.0\FinalsApi.csproj.AssemblyReference.cache

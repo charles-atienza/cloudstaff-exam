@@ -1,0 +1,29 @@
+<div class="input">
+    <input type="submit" value="logout" (click)="logoutUser()">
+</div>
+
+<div class="info">
+    <label>Pin: </label>
+    <span>{{userPin}}</span>
+</div>
+
+<div class="info">
+    <label>Balance: </label>
+    <span>{{userBalance}}</span>
+</div>
+
+<form>
+    <div class="input">
+        <label>Debit: </label>
+        <input type="number" name="credit" [(ngModel)]="amountToDebit">
+        <input type="submit" value="Debit Amount" (click)="debitBalance()">
+    </div>
+</form>
+
+<form>
+    <div class="input">
+        <label>Credit: </label>
+        <input type="number" name="credit" [(ngModel)]="amountToCredit">
+        <input type="submit" value="Credit Amount" (click)="creditBalance()">
+    </div>
+</form>
